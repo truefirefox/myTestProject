@@ -1,0 +1,1 @@
+для создания таблицы User использовать create_table_user.sql
